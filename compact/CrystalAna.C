@@ -57,6 +57,7 @@ double UV_sipm_QE_x[89] = {282.6086957, 288.0434783, 290.2173913, 291.3043478, 2
 double UV_sipm_QE_y[89] = {0.02983683, 0.041958042, 0.068997669, 0.106293706, 0.131468531, 0.158508159, 0.185547786, 0.211655012, 0.225641026, 0.240559441, 0.255477855, 0.271328671, 0.287179487, 0.299300699, 0.30955711, 0.321678322, 0.331934732, 0.342191142, 0.353379953, 0.363636364, 0.374825175, 0.385081585, 0.393473193, 0.399067599, 0.407459207, 0.418648019, 0.431701632, 0.443822844, 0.455011655, 0.466200466, 0.476456876, 0.485780886, 0.494172494, 0.502564103, 0.508158508, 0.509090909, 0.506293706, 0.498834499, 0.48951049, 0.479254079, 0.468997669, 0.458741259, 0.446620047, 0.437296037, 0.427039627, 0.416783217, 0.405594406, 0.395337995, 0.384149184, 0.373892774, 0.363636364, 0.352447552, 0.342191142, 0.331002331, 0.320745921, 0.31048951, 0.301165501, 0.290909091, 0.280652681, 0.271328671, 0.261072261, 0.251748252, 0.242424242, 0.233100233, 0.222843823, 0.214452214, 0.204195804, 0.193939394, 0.185547786, 0.176223776, 0.167832168, 0.158508159, 0.151048951, 0.142657343, 0.134265734, 0.125874126, 0.118414918, 0.11002331, 0.102564103, 0.095104895, 0.087645688, 0.082051282, 0.074592075, 0.068065268, 0.061538462, 0.055944056, 0.049417249, 0.044755245, 0.038694639};
 
 double UV_PMT_QE_x[120] = {270.0934579, 271.9626168, 272.8971963, 273.8317757, 274.7663551, 276.635514, 277.5700935, 278.5046729, 279.4392523, 280.3738318, 281.3084112, 283.1775701, 284.1121495, 285.046729, 286.9158879, 287.8504673, 288.7850467, 289.7196262, 290.6542056, 291.588785, 292.5233645, 293.4579439, 294.3925234, 295.3271028, 296.2616822, 297.1962617, 298.1308411, 300., 300.9345794, 301.8691589, 302.8037383, 303.7383178, 304.6728972, 305.6074766, 306.5420561, 307.4766355, 307.4766355, 308.411215, 309.3457944, 310.2803738, 311.2149533, 313.0841121, 314.0186916, 315.8878505, 317.7570093, 319.6261682, 321.4953271, 323.364486, 325.2336449, 328.9719626, 332.7102804, 335.5140187, 339.2523364, 343.9252336, 349.5327103, 354.2056075, 358.8785047, 365.4205607, 371.0280374, 375.7009346, 381.3084112, 385.9813084, 391.588785, 397.1962617, 401.8691589, 406.5420561, 411.2149533, 414.953271, 419.6261682, 423.364486, 427.1028037, 430.8411215, 434.5794393, 438.317757, 442.0560748, 445.7943925, 449.5327103, 452.3364486, 456.0747664, 459.8130841, 463.5514019, 467.2897196, 471.0280374, 473.8317757, 477.5700935, 481.3084112, 484.1121495, 487.8504673, 491.588785, 495.3271028, 499.0654206, 502.8037383, 505.6074766, 509.3457944, 513.0841121, 516.8224299, 519.6261682, 522.4299065, 526.1682243, 528.0373832, 530.8411215, 533.6448598, 536.4485981, 540.1869159, 542.0560748, 545.7943925, 549.5327103, 553.271028, 557.0093458, 561.682243, 567.2897196, 572.8971963, 579.4392523, 586.9158879, 594.3925234, 602.8037383, 612.1495327, 618.6915888, 626.1682243, 626.1682243};
+
 double UV_PMT_QE_y[120] = {0.004050633, 0.009113924, 0.015189873, 0.020759494, 0.026329114, 0.031898734, 0.038481013, 0.043544304, 0.049113924, 0.055189873, 0.061772152, 0.067341772, 0.073417722, 0.079493671, 0.085063291, 0.091139241, 0.096708861, 0.10278481, 0.10835443, 0.11443038, 0.119493671, 0.125063291, 0.131139241, 0.136708861, 0.14278481, 0.149367089, 0.155443038, 0.161518987, 0.167088608, 0.172658228, 0.177721519, 0.184303797, 0.190379747, 0.196455696, 0.202025316, 0.207088608, 0.207088608, 0.21164557, 0.216708861, 0.22278481, 0.227848101, 0.233417722, 0.238481013, 0.244556962, 0.250126582, 0.255189873, 0.260759494, 0.264810127, 0.269873418, 0.274936709, 0.280506329, 0.283544304, 0.286075949, 0.288607595, 0.289113924, 0.289113924, 0.288101266, 0.286582278, 0.285063291, 0.283037975, 0.280506329, 0.278481013, 0.274936709, 0.270886076, 0.266835443, 0.26278481, 0.258227848, 0.254177215, 0.249620253, 0.24556962, 0.241012658, 0.236962025, 0.231898734, 0.226835443, 0.221265823, 0.216202532, 0.211139241, 0.20556962, 0.199493671, 0.193924051, 0.187848101, 0.182278481, 0.176202532, 0.171139241, 0.16556962, 0.16, 0.153924051, 0.148860759, 0.143291139, 0.137721519, 0.13164557, 0.126075949, 0.121012658, 0.115443038, 0.109367089, 0.103797468, 0.098734177, 0.093164557, 0.087594937, 0.083037975, 0.077974684, 0.072405063, 0.067341772, 0.062278481, 0.05721519, 0.051139241, 0.046582278, 0.041518987, 0.036455696, 0.031898734, 0.026835443, 0.022278481, 0.017721519, 0.013670886, 0.010126582, 0.007594937, 0.005063291, 0.003037975, 0.002025316, 0.002025316};
 
 double RGB_sipm_QE_x[89] = {282.6086957, 288.0434783, 290.2173913, 291.3043478, 292.3913043, 293.4782609, 294.5652174, 295.6521739, 296.7391304, 297.826087, 298.9130435, 301.0869565, 303.2608696, 304.3478261, 307.6086957, 309.7826087, 314.1304348, 317.3913043, 321.7391304, 329.3478261, 335.8695652, 343.4782609, 350., 358.6956522, 367.3913043, 373.9130435, 378.2608696, 383.6956522, 388.0434783, 394.5652174, 402.173913, 408.6956522, 417.3913043, 428.2608696, 440.2173913, 452.173913, 465.2173913, 475., 482.6086957, 489.1304348, 494.5652174, 500., 505.4347826, 510.8695652, 517.3913043, 522.826087, 529.3478261, 534.7826087, 542.3913043, 548.9130435, 555.4347826, 561.9565217, 568.4782609, 577.173913, 583.6956522, 590.2173913, 596.7391304, 603.2608696, 610.8695652, 617.3913043, 623.9130435, 631.5217391, 638.0434783, 644.5652174, 652.173913, 659.7826087, 667.3913043, 676.0869565, 685.8695652, 694.5652174, 703.2608696, 713.0434783, 721.7391304, 731.5217391, 741.3043478, 753.2608696, 764.1304348, 775., 785.8695652, 797.826087, 808.6956522, 819.5652174, 831.5217391, 844.5652174, 855.4347826, 866.3043478, 877.173913, 889.1304348, 898.9130435};
@@ -73,6 +74,9 @@ double GG_filter_x[92] = {300.0, 310.0, 320.0, 330.0, 340.0, 350.0, 360.0, 370.0
 /*double GG_filter_y[92] = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00007048, 0.06112, 0.4792, 0.7703, 0.8551, 0.8849, 0.9032, 0.9176, 0.9300, 0.9409, 0.9500, 0.9578, 0.9645, 0.9703, 0.9747, 0.9781, 0.9809, 0.9829, 0.9843, 0.9852, 0.9857, 0.9858, 0.9856, 0.9852, 0.9847, 0.9841, 0.9834, 0.9825, 0.9814, 0.9803, 0.9792, 0.9780, 0.9767, 0.9754, 0.9740, 0.9724, 0.9706, 0.9691, 0.9676, 0.9662, 0.9649, 0.9635, 0.9622, 0.9609, 0.9596, 0.9585, 0.9574, 0.9563, 0.9552, 0.9541, 0.9531, 0.9523, 0.9517, 0.9512, 0.9507, 0.9503, 0.9499, 0.9495, 0.9491, 0.9488, 0.9484, 0.9481, 0.9478, 0.9475, 0.9472, 0.9470, 0.9468, 0.9467, 0.9466, 0.9465, 0.9465, 0.9465, 0.9465, 0.9465, 0.9466, 0.9467, 0.9468, 0.9469, 0.9470, 0.9472, 0.9474, 0.9484};*/ // This one is for GG420
 
 double GG_filter_y[92] = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01043, 0.2606, 0.7129, 0.9022, 0.9523, 0.9691, 0.9773, 0.9819, 0.9850, 0.9866, 0.9877, 0.9882, 0.9881, 0.9876, 0.9872, 0.9864, 0.9857, 0.9850, 0.9842, 0.9833, 0.9822, 0.9811, 0.9799, 0.9783, 0.9769, 0.9754, 0.9739, 0.9722, 0.9704, 0.9686, 0.9667, 0.9649, 0.9632, 0.9616, 0.9600, 0.9583, 0.9568, 0.9554, 0.9541, 0.9529, 0.9516, 0.9504, 0.9492, 0.9482, 0.9474, 0.9468, 0.9461, 0.9454, 0.9449, 0.9443, 0.9438, 0.9434, 0.9429, 0.9424, 0.9420, 0.9416, 0.9412, 0.9409, 0.9407, 0.9406, 0.9405, 0.9404, 0.9404, 0.9404, 0.9404, 0.9404, 0.9404, 0.9405, 0.9406, 0.9407, 0.9408, 0.9409, 0.9411, 0.9413, 0.9415, 0.9430}; //This one is for GG475 which is the one being used
+
+double OD2_0deg_600_x[223] = {523.4662577, 537.2699387, 551.0736196, 564.8773006, 577.3006135, 584.202454, 588.3435583, 591.1042945, 592.4846626, 593.8650307, 595.2453988, 598.006135, 599.3865031, 600.7668712, 602.1472393, 603.5276074, 604.9079755, 606.2883436, 607.6687117, 609.0490798, 613.190184, 615.9509202, 617.3312883, 620.0920245, 622.8527607, 624.2331288, 625.6134969, 631.1349693, 633.8957055, 636.6564417, 639.4171779, 640.797546, 642.1779141, 644.9386503, 650.4601227, 651.8404908, 655.9815951, 658.7423313, 661.5030675, 664.2638037, 665.6441718, 667.0245399, 669.7852761, 673.9263804, 676.6871166, 679.4478528, 684.9693252, 686.3496933, 687.7300613, 690.4907975, 691.8711656, 694.6319018, 696.0122699, 700.1533742, 702.9141104, 705.6748466, 708.4355828, 712.5766871, 713.9570552, 716.7177914, 719.4785276, 722.2392638, 725., 727.7607362, 730.5214724, 733.2822086, 738.803681, 742.9447853, 747.0858896, 751.2269939, 758.1288344, 762.2699387, 766.4110429, 770.5521472, 778.8343558, 781.595092, 787.1165644, 792.6380368, 798.1595092, 802.3006135, 809.202454, 816.1042945, 821.6257669, 828.5276074, 834.0490798, 839.5705521, 845.0920245, 850.6134969, 856.1349693, 861.6564417, 868.5582822, 875.4601227, 879.601227, 883.7423313, 886.5030675, 894.7852761, 898.9263804, 905.8282209, 909.9693252, 915.4907975, 922.392638, 926.5337423, 930.6748466, 936.196319, 938.9570552, 943.0981595, 947.2392638, 951.3803681, 955.5214724, 961.0429448, 966.5644172, 970.7055215, 974.8466258, 978.9877301, 983.1288344, 985.8895706, 990.0306748, 992.791411, 995.5521472, 999.6932515, 1006.595092, 1010.736196, 1013.496933, 1016.257669, 1019.018405, 1023.159509, 1027.300613, 1030.06135, 1034.202454, 1038.343558, 1041.104294, 1045.245399, 1049.386503, 1052.147239, 1054.907975, 1059.04908, 1063.190184, 1067.331288, 1070.092025, 1072.852761, 1076.993865, 1081.134969, 1085.276074, 1088.03681, 1092.177914, 1096.319018, 1100.460123, 1103.220859, 1108.742331, 1112.883436, 1118.404908, 1122.546012, 1125.306748, 1128.067485, 1132.208589, 1136.349693, 1140.490798, 1144.631902, 1150.153374, 1152.91411, 1158.435583, 1162.576687, 1168.09816, 1172.239264, 1176.380368, 1181.90184, 1186.042945, 1188.803681, 1194.325153, 1199.846626, 1205.368098, 1209.509202, 1216.411043, 1220.552147, 1226.07362, 1231.595092, 1237.116564, 1242.638037, 1246.779141, 1253.680982, 1257.822086, 1261.96319, 1267.484663, 1273.006135, 1278.527607, 1285.429448, 1290.95092, 1293.711656, 1297.852761, 1303.374233, 1308.895706, 1314.417178, 1322.699387, 1330.981595, 1339.263804, 1350.306748, 1358.588957, 1366.871166, 1376.533742, 1387.576687, 1398.619632, 1409.662577, 1419.325153, 1424.846626, 1433.128834, 1438.650307, 1448.312883, 1459.355828, 1466.257669, 1475.920245, 1484.202454, 1493.865031, 1504.907975, 1513.190184, 1521.472393, 1531.134969, 1539.417178, 1550.460123, 1560.122699, 1569.785276, 1576.687117, 1587.730061, 1593.251534};
+double OD2_0deg_600_y[223] = {0.004210526, 0.004210526, 0.004210526, 0.004210526, 0.004210526, 0.013421053, 0.033684211, 0.052105263, 0.072368421, 0.092631579, 0.112894737, 0.192105263, 0.234473684, 0.313684211, 0.45, 0.59, 0.825789474, 0.941842105, 0.954736842, 0.925263158, 0.912368421, 0.941842105, 0.952894737, 0.963947368, 0.956578947, 0.945526316, 0.936315789, 0.927105263, 0.930789474, 0.934473684, 0.94, 0.945526316, 0.949210526, 0.954736842, 0.956578947, 0.951052632, 0.938157895, 0.930789474, 0.936315789, 0.94, 0.945526316, 0.947368421, 0.951052632, 0.952894737, 0.947368421, 0.945526316, 0.94, 0.947368421, 0.951052632, 0.956578947, 0.960263158, 0.967631579, 0.965789474, 0.962105263, 0.956578947, 0.952894737, 0.947368421, 0.941842105, 0.945526316, 0.947368421, 0.952894737, 0.958421053, 0.960263158, 0.962105263, 0.962105263, 0.958421053, 0.952894737, 0.952894737, 0.952894737, 0.954736842, 0.956578947, 0.956578947, 0.952894737, 0.952894737, 0.952894737, 0.954736842, 0.954736842, 0.958421053, 0.958421053, 0.956578947, 0.956578947, 0.954736842, 0.952894737, 0.952894737, 0.952894737, 0.956578947, 0.960263158, 0.962105263, 0.962105263, 0.958421053, 0.956578947, 0.954736842, 0.954736842, 0.956578947, 0.956578947, 0.960263158, 0.958421053, 0.956578947, 0.952894737, 0.951052632, 0.952894737, 0.954736842, 0.958421053, 0.963947368, 0.965789474, 0.967631579, 0.967631579, 0.967631579, 0.965789474, 0.962105263, 0.960263158, 0.958421053, 0.956578947, 0.956578947, 0.956578947, 0.956578947, 0.958421053, 0.960263158, 0.962105263, 0.963947368, 0.963947368, 0.962105263, 0.962105263, 0.962105263, 0.960263158, 0.956578947, 0.954736842, 0.954736842, 0.954736842, 0.954736842, 0.954736842, 0.954736842, 0.958421053, 0.960263158, 0.960263158, 0.960263158, 0.962105263, 0.962105263, 0.962105263, 0.960263158, 0.958421053, 0.954736842, 0.952894737, 0.951052632, 0.949210526, 0.945526316, 0.943684211, 0.941842105, 0.94, 0.94, 0.94, 0.941842105, 0.941842105, 0.941842105, 0.943684211, 0.943684211, 0.943684211, 0.943684211, 0.943684211, 0.943684211, 0.941842105, 0.94, 0.938157895, 0.938157895, 0.936315789, 0.936315789, 0.936315789, 0.936315789, 0.936315789, 0.936315789, 0.938157895, 0.938157895, 0.94, 0.941842105, 0.943684211, 0.943684211, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.945526316, 0.943684211, 0.943684211, 0.941842105, 0.941842105, 0.941842105, 0.941842105, 0.941842105, 0.943684211, 0.945526316, 0.947368421, 0.949210526, 0.947368421, 0.943684211, 0.943684211, 0.943684211, 0.941842105, 0.94, 0.94, 0.94, 0.941842105, 0.943684211, 0.947368421, 0.949210526, 0.951052632, 0.952894737, 0.951052632, 0.949210526, 0.943684211, 0.936315789, 0.930789474, 0.923421053, 0.916052632, 0.912368421};
 
 void crystalana(int num_evtsmax, const char* inputfilename) {
 
@@ -349,8 +353,9 @@ std::cout<<std::endl;
       ncertot_avg+=ncertot;
       nscinttot_avg+=nscinttot;
       
-      if(ncerchan[0]> 200 && ncerwavechan[0].size() > 0) //First event that actually gets hits
+      //if(ncerchan[0]> 200 && ncerwavechan[0].size() > 0) //First event that actually gets hits
       //Of course the first condition that total number of photons are > 0 also guarantees the second
+      if(ncerwavechan[0].size() > 0) //First event that actually gets hits
       {
        icount++;      
        C_gen << ncerchan[0] << endl;
@@ -378,6 +383,7 @@ std::cout<<std::endl;
          //Don't change the number_of_bins_avg here
         }
        }*/
+       //for(int j=0;j<ncerwavechan[k].size();j++) //Right now all sizes are the same = binsize
        for(int j=0;j<ncerwavechan[k].size();j++) //Right now all sizes are the same = binsize
        {
          if(icount == 1) //Only the first instance of a non zero array
@@ -436,10 +442,10 @@ std::cout<<std::endl;
        
       hcEcalE->Fill(esum/1000.);
       hcEcalncer->Fill(ncertot);
-      if(ncerchan[0]> 200)
-      {
+      //if(ncerchan[0]> 200)
+      //{
       hcEcalncer0->Fill(ncerchan[0]);
-      }
+      //}
       hcEcalncer1->Fill(ncerchan[1]);
       hcEcalncer2->Fill(ncerchan[2]);
       hcEcalncer3->Fill(ncerchan[3]);
@@ -529,11 +535,11 @@ std::cout<<std::endl;
      std::cout<<"ncerenkov_avg ["<<namechan[i]<<"]="<<ncerchan_avg[i]<<std::endl;
     }
     
-    /*
+    
     for(int j=0;j<ncerwavechan_avg[0].size();j++) //Right now all sizes are the same = binsize, taken the channel 0
     {
-     int ent_UG11 = 91, ent_GG420 = 91;
-     if (number_of_bins_avg[2].at(j) >= UV_filter_x[0] && number_of_bins_avg[2].at(j) < UV_filter_x[ent_UG11]) //within range specified for filter (which is basically the entire range over which the bins are specified)
+     int ent_UG11 = 91, ent_GG420 = 91, ent_OD2 = 222;
+     /*if (number_of_bins_avg[2].at(j) >= UV_filter_x[0] && number_of_bins_avg[2].at(j) < UV_filter_x[ent_UG11]) //within range specified for filter (which is basically the entire range over which the bins are specified)
      {
       for(int i=0;i<ent_UG11;i++)
       {
@@ -544,26 +550,41 @@ std::cout<<std::endl;
      else 
      {
       filter[2].push_back(0.0); //outside range
-     }
+     }*/
+ 
+     //7,8,9,10 correspond to SiPMs on long face
+     if(number_of_bins_avg[7].at(j) >= OD2_0deg_600_x[0] && number_of_bins_avg[7].at(j) < OD2_0deg_600_x[ent_OD2]) //i.e. if it lies within the range of sensitivity of the RGB SiPM
+      //1 less than actual size i.e. 222 because of usual indexing quirks (starts from 0)
+       {
+        for(int i=0;i<ent_OD2;i++)
+        {
+         if (number_of_bins_avg[7].at(j) >= OD2_0deg_600_x[i] && number_of_bins_avg[7].at(j) < OD2_0deg_600_x[i + 1]) //Checking what 'bin' the wavelength lies in         
+         {
+          filter[7].push_back(((OD2_0deg_600_y[i + 1] - OD2_0deg_600_y[i]) * (number_of_bins_avg[7].at(j) - OD2_0deg_600_x[i]) / (OD2_0deg_600_x[i + 1] - OD2_0deg_600_x[i]) + OD2_0deg_600_y[i]));
+          filter[8].push_back(((OD2_0deg_600_y[i + 1] - OD2_0deg_600_y[i]) * (number_of_bins_avg[8].at(j) - OD2_0deg_600_x[i]) / (OD2_0deg_600_x[i + 1] - OD2_0deg_600_x[i]) + OD2_0deg_600_y[i]));
+          filter[9].push_back(((OD2_0deg_600_y[i + 1] - OD2_0deg_600_y[i]) * (number_of_bins_avg[9].at(j) - OD2_0deg_600_x[i]) / (OD2_0deg_600_x[i + 1] - OD2_0deg_600_x[i]) + OD2_0deg_600_y[i]));
+          filter[10].push_back(((OD2_0deg_600_y[i + 1] - OD2_0deg_600_y[i]) * (number_of_bins_avg[10].at(j) - OD2_0deg_600_x[i]) / (OD2_0deg_600_x[i + 1] - OD2_0deg_600_x[i]) + OD2_0deg_600_y[i]));
+         }
+        }
+       }
+        else 
+       {
+        filter[7].push_back(0.0);
+        filter[8].push_back(0.0);
+        filter[9].push_back(0.0);
+        filter[10].push_back(0.0);        
+       }
      
-     if (number_of_bins_avg[1].at(j) >= GG_filter_x[0] && number_of_bins_avg[1].at(j) < GG_filter_x[ent_GG420]) //within range specified for filter (which is basically the entire range over which the bins are specified)
-     {
-      for(int i=0;i<ent_GG420;i++)
-      {
-       if (number_of_bins_avg[1].at(j) >= GG_filter_x[i] && number_of_bins_avg[1].at(j) < GG_filter_x[i + 1]) //Checking what 'bin' the wavelength lies in
-       filter[1].push_back((GG_filter_y[i + 1] - GG_filter_y[i]) * (number_of_bins_avg[1].at(j) - GG_filter_x[i]) / (GG_filter_x[i + 1] - GG_filter_x[i]) + GG_filter_y[i]);
-      }
-     }      
-     else 
-     {
-      filter[1].push_back(0.0); //outside range
-     }
+     filter[0].push_back(1.0); //Crystal
+     filter[1].push_back(1.0); //Air
+     filter[2].push_back(1.0); //No filter for PMT
      
-     
-     filter[0].push_back(1.0);
      filter[3].push_back(1.0);
+     filter[4].push_back(1.0);
+     filter[5].push_back(1.0);
+     filter[6].push_back(1.0);
     }
-    */
+    
      
       for(int j=0;j<ncerwavechan_avg[0].size();j++) //Right now all sizes are the same = binsize, taken the channel 0
       {
@@ -583,7 +604,7 @@ std::cout<<std::endl;
        }
        
        
-       
+      //3,4,5,6 correspond to right SiPMs on square face 
       if(number_of_bins_avg[3].at(j) >= RGB_sipm_QE_x[0] && number_of_bins_avg[3].at(j) < RGB_sipm_QE_x[ent_RGB]) //i.e. if it lies within the range of sensitivity of the RGB SiPM
       //1 less than actual size i.e. 88 because of usual indexing quirks (starts from 0)
       {
@@ -607,9 +628,10 @@ std::cout<<std::endl;
         QE[6].push_back(0.0);        
        }
        
-       QE[0].push_back(1.0);
-       QE[1].push_back(1.0);
+       QE[0].push_back(1.0); //Crystal
+       QE[1].push_back(1.0); //Air
        
+       //7,8,9,10 correspond to SiPMs on long face
        if(number_of_bins_avg[7].at(j) >= RGB_sipm_QE_x[0] && number_of_bins_avg[7].at(j) < RGB_sipm_QE_x[ent_RGB]) //i.e. if it lies within the range of sensitivity of the RGB SiPM
       //1 less than actual size i.e. 88 because of usual indexing quirks (starts from 0)
        {
@@ -653,8 +675,9 @@ std::cout<<std::endl;
     }    
     }
 
-    for(int k=0;k<wavelencut.size();k++)
-    {
+    //for(int k=0;k<wavelencut.size();k++)
+    //{
+     /*
      for( int n=0;n<nchan;n++)
      {
       for(int m=0;m<number_of_bins_avg[0].size();m++)
@@ -686,7 +709,7 @@ std::cout<<std::endl;
      filter[0].at(j)=1.0;
      filter[3].at(j)=1.0;
     }
-    
+    */
     //std::cout << "Put filter cutoff MMP" << std:: endl;
     
     for( int i=0;i<nchan;i++)
@@ -704,31 +727,31 @@ std::cout<<std::endl;
       /*ncerwavecutchan_avg[i].at(j) = ncerwavecutchan_avg[i].at(j)/num_evt;
       nscintwavecutchan_avg[i].at(j) = nscintwavecutchan_avg[i].at(j)/num_evt;*/
       
-      /*ncerwavecutchan_avg[i].at(j)+=ncerwavechan_avg[i].at(j)*filter[i].at(j);
+      ncerwavecutchan_avg[i].at(j)+=ncerwavechan_avg[i].at(j)*filter[i].at(j);
       nscintwavecutchan_avg[i].at(j)+=nscintwavechan_avg[i].at(j)*filter[i].at(j);
       
       ncerwavecutchan_avg[i].at(j) = ncerwavecutchan_avg[i].at(j)*QE[i].at(j);
-      nscintwavecutchan_avg[i].at(j) = nscintwavecutchan_avg[i].at(j)*QE[i].at(j);*/
+      nscintwavecutchan_avg[i].at(j) = nscintwavecutchan_avg[i].at(j)*QE[i].at(j);
       
-      ncerwavecutchan_avg[i].at(j)+=ncerwavechan_avg[i].at(j)*QE[i].at(j);
-      nscintwavecutchan_avg[i].at(j)+=nscintwavechan_avg[i].at(j)*QE[i].at(j);
+      /*ncerwavecutchan_avg[i].at(j)+=ncerwavechan_avg[i].at(j)*QE[i].at(j);
+      nscintwavecutchan_avg[i].at(j)+=nscintwavechan_avg[i].at(j)*QE[i].at(j);*/
       
       ncercutchan_avg[i]+= ncerwavecutchan_avg[i].at(j);
       nscintcutchan_avg[i]+= nscintwavecutchan_avg[i].at(j);
      }
-     //std::cout<<"nscintillator_avg with QE ["<<namechan[i]<<"]="<<nscintcutchan_avg[i]<<std::endl;
-     //std::cout<<"ncerenkov_avg with QE ["<<namechan[i]<<"]="<<ncercutchan_avg[i]<<std::endl;     
+     std::cout<<"nscintillator_avg with QE ["<<namechan[i]<<"]="<<nscintcutchan_avg[i]<<std::endl;
+     std::cout<<"ncerenkov_avg with QE ["<<namechan[i]<<"]="<<ncercutchan_avg[i]<<std::endl;     
 
      ncer_cut_chan_k[i].push_back(ncercutchan_avg[i]);
      nscint_cut_chan_k[i].push_back(nscintcutchan_avg[i]);
      //optimize_C_S[i].push_back(ncer_cut_chan_k[i].at(k)/nscint_cut_chan_k[i].at(k));
-     optimize_C_S[i].push_back(ncer_cut_chan_k[i].at(k)/((ncerchan_avg[i])*(a/2+sqrt(nscint_cut_chan_k[i].at(k))))); //1 = a/2, here a corresponds to 2 sigma
+     //optimize_C_S[i].push_back(ncer_cut_chan_k[i].at(k)/((ncerchan_avg[i])*(a/2+sqrt(nscint_cut_chan_k[i].at(k))))); //1 = a/2, here a corresponds to 2 sigma
      /*if(i==2)
      {
      std::cout << k << " " << number_of_bins_avg[i].at(k) <<" ncerenkov_avg with filter and QE ["<<ichan[i]<<"]="<<ncercutchan_avg[i] <<" nscintillator_avg with filter and QE ["<<ichan[i]<<"]="<<nscintcutchan_avg[i]<< " Optimization value "<< optimize_C_S[i].at(k)<< std::endl;
      }*/
     }
-   }  
+   //}  
    //std::cout<<ncer_cut_chan_k[2].size()<< " " << nscint_cut_chan_k[2].size() << std::endl;
    
    /*for(int j=0;j<nscint_cut_chan_k[2].size();j++)
@@ -741,18 +764,34 @@ std::cout<<std::endl;
    
     float norm_cer = *max_element(ncerwavechan_avg[0].begin(), ncerwavechan_avg[0].end());
     float norm_scint = *max_element(nscintwavechan_avg[0].begin(), nscintwavechan_avg[0].end());   
-    float norm_cer_det_right = *max_element(ncerwavechan_avg[2].begin(), ncerwavechan_avg[2].end());
-    float norm_cer_det_left = *max_element(ncerwavechan_avg[1].begin(), ncerwavechan_avg[1].end());    
-    float norm_scint_det_right = *max_element(nscintwavechan_avg[2].begin(), nscintwavechan_avg[2].end());   
-    float norm_scint_det_left = *max_element(nscintwavechan_avg[1].begin(), nscintwavechan_avg[1].end());  
-    float norm_S_Cut_right = *max_element(nscint_cut_chan_k[2].begin(),nscint_cut_chan_k[2].end());
+    float norm_cer_det_right_1 = *max_element(ncerwavechan_avg[3].begin(), ncerwavechan_avg[3].end());
+    float norm_cer_det_right_2 = *max_element(ncerwavechan_avg[4].begin(), ncerwavechan_avg[4].end());
+    float norm_cer_det_right_3 = *max_element(ncerwavechan_avg[5].begin(), ncerwavechan_avg[5].end());
+    float norm_cer_det_right_4 = *max_element(ncerwavechan_avg[6].begin(), ncerwavechan_avg[6].end());
+
+    float norm_cer_det_1 = *max_element(ncerwavechan_avg[7].begin(), ncerwavechan_avg[7].end());
+    float norm_cer_det_2 = *max_element(ncerwavechan_avg[8].begin(), ncerwavechan_avg[8].end());
+    float norm_cer_det_3 = *max_element(ncerwavechan_avg[9].begin(), ncerwavechan_avg[9].end());
+    float norm_cer_det_4 = *max_element(ncerwavechan_avg[10].begin(), ncerwavechan_avg[10].end());
+    
+    float norm_scint_det_right_1 = *max_element(nscintwavechan_avg[3].begin(), nscintwavechan_avg[3].end());   
+    float norm_scint_det_right_2 = *max_element(nscintwavechan_avg[4].begin(), nscintwavechan_avg[4].end());   
+    float norm_scint_det_right_3 = *max_element(nscintwavechan_avg[5].begin(), nscintwavechan_avg[5].end());   
+    float norm_scint_det_right_4 = *max_element(nscintwavechan_avg[6].begin(), nscintwavechan_avg[6].end());   
+    
+    float norm_scint_det_1 = *max_element(nscintwavechan_avg[7].begin(), nscintwavechan_avg[7].end());   
+    float norm_scint_det_2 = *max_element(nscintwavechan_avg[8].begin(), nscintwavechan_avg[8].end());   
+    float norm_scint_det_3 = *max_element(nscintwavechan_avg[9].begin(), nscintwavechan_avg[9].end());   
+    float norm_scint_det_4 = *max_element(nscintwavechan_avg[10].begin(), nscintwavechan_avg[10].end());   
+    
+    /*float norm_S_Cut_right = *max_element(nscint_cut_chan_k[2].begin(),nscint_cut_chan_k[2].end());
     float norm_C_Cut_right = *max_element(ncer_cut_chan_k[2].begin(),ncer_cut_chan_k[2].end());
     float Large_value = *max_element(optimize_C_S[2].begin(),optimize_C_S[2].end());
     float Large_value_QE = *max_element(QE[2].begin(),QE[2].end());
     float Optimum_cut_value, Optimum_Cerenkov, Optimum_Scintillation;
     float kink_cut_value = 0.0, kink_Cerenkov = 0.0, kink_Scintillation = 0.0;
-    std::cout << nscint_cut_chan_k[2].size() << std::endl;
-    for(int j=0;j<nscint_cut_chan_k[2].size();j++)
+    std::cout << nscint_cut_chan_k[2].size() << std::endl;*/
+    /*for(int j=0;j<nscint_cut_chan_k[2].size();j++)
     {
      if(optimize_C_S[2].at(j) == Large_value)
      {
@@ -780,7 +819,7 @@ std::cout<<std::endl;
       std::cout << "End of scintillation spectrum " << number_of_bins_avg[2].at(j) << " " << ncer_cut_chan_k[2].at(j) << " " << nscint_cut_chan_k[2].at(j) << std::endl;
       break;
      }
-    }   
+    }*/ 
 
     /*for(int j=0;j<nscint_cut_chan_k[2].size();j++)
    {
@@ -792,8 +831,8 @@ std::cout<<std::endl;
 
     //std::cout<< "max cer is " << " " << norm_cer << endl;
     //std::cout<< "max scint is " << " " << norm_scint << endl;
-    std::cout<< "max cer det right is " << " " << norm_cer_det_right << endl;
-    std::cout<< "max scint det right is " << " " << norm_scint_det_right << endl;
+    std::cout<< "max cer det long is " << " " << norm_cer_det_1 << endl;
+    std::cout<< "max scint det long is " << " " << norm_scint_det_1 << endl;
     //std::cout<< "max cer det left is " << " " << norm_cer_det_left << endl;
     //std::cout<< "max scint det left is " << " " << norm_scint_det_left << endl;
 
@@ -809,18 +848,37 @@ std::cout<<std::endl;
      }*/
     //}
 
-     for(int j=0;j<ncerwavechan_avg[2].size();j++)
+     for(int j=0;j<ncerwavechan_avg[0].size();j++)
      {
-      ncerwavechan_avg[2].at(j) = ncerwavechan_avg[2].at(j)*Large_value/norm_cer_det_right;
-      //ncerwavecutchan_avg[2].at(j) = ncerwavecutchan_avg[2].at(j)/norm_cer_det_right/2;
+      //ncerwavechan_avg[2].at(j) = ncerwavechan_avg[2].at(j)*Large_value/norm_cer_det_right;
+      ncerwavechan_avg[7].at(j) = ncerwavechan_avg[7].at(j)/norm_cer_det_1;
+      ncerwavechan_avg[8].at(j) = ncerwavechan_avg[8].at(j)/norm_cer_det_2;
+      ncerwavechan_avg[9].at(j) = ncerwavechan_avg[9].at(j)/norm_cer_det_3;
+      ncerwavechan_avg[10].at(j) = ncerwavechan_avg[10].at(j)/norm_cer_det_4;
       
-      ncerwavechan_avg[1].at(j) = ncerwavechan_avg[1].at(j)*Large_value/norm_cer_det_left;
+      ncerwavecutchan_avg[7].at(j) = ncerwavecutchan_avg[7].at(j)/norm_cer_det_1;
+      ncerwavecutchan_avg[8].at(j) = ncerwavecutchan_avg[8].at(j)/norm_cer_det_2;
+      ncerwavecutchan_avg[9].at(j) = ncerwavecutchan_avg[9].at(j)/norm_cer_det_3;
+      ncerwavecutchan_avg[10].at(j) = ncerwavecutchan_avg[10].at(j)/norm_cer_det_4;
+  
+      
+      nscintwavechan_avg[7].at(j) = nscintwavechan_avg[7].at(j)/norm_scint_det_1;      
+      nscintwavechan_avg[8].at(j) = nscintwavechan_avg[8].at(j)/norm_scint_det_2;      
+      nscintwavechan_avg[9].at(j) = nscintwavechan_avg[9].at(j)/norm_scint_det_3;      
+      nscintwavechan_avg[10].at(j) = nscintwavechan_avg[10].at(j)/norm_scint_det_4;            
+      
+      nscintwavecutchan_avg[7].at(j) = nscintwavecutchan_avg[7].at(j)/norm_scint_det_1;      
+      nscintwavecutchan_avg[8].at(j) = nscintwavecutchan_avg[8].at(j)/norm_scint_det_2;      
+      nscintwavecutchan_avg[9].at(j) = nscintwavecutchan_avg[9].at(j)/norm_scint_det_3;      
+      nscintwavecutchan_avg[10].at(j) = nscintwavecutchan_avg[10].at(j)/norm_scint_det_4;      
+      
+      //ncerwavechan_avg[1].at(j) = ncerwavechan_avg[1].at(j)*Large_value/norm_cer_det_left;
       //ncerwavecutchan_avg[1].at(j) = ncerwavecutchan_avg[1].at(j)/norm_cer_det_left/2;
       
-      nscintwavechan_avg[1].at(j) = nscintwavechan_avg[1].at(j)*Large_value/norm_scint_det_left;
+      //nscintwavechan_avg[1].at(j) = nscintwavechan_avg[1].at(j)*Large_value/norm_scint_det_left;
       //nscintwavecutchan_avg[1].at(j) = nscintwavecutchan_avg[1].at(j)/norm_scint_det_left/2;
       
-      nscintwavechan_avg[2].at(j) = nscintwavechan_avg[2].at(j)*Large_value/norm_scint_det_right;
+      //nscintwavechan_avg[2].at(j) = nscintwavechan_avg[2].at(j)*Large_value/norm_scint_det_right;
       //nscintwavecutchan_avg[2].at(j) = nscintwavecutchan_avg[2].at(j)/norm_scint_det_right/2;
       
       /*ncerwavechan_avg[2].at(j) = ncerwavechan_avg[2].at(j)*Large_value_QE/norm_cer_det_right;
@@ -830,40 +888,136 @@ std::cout<<std::endl;
       nscintwavecutchan_avg[2].at(j) = nscintwavecutchan_avg[2].at(j)*Large_value_QE/norm_scint_det_right;*/
      }
      
-     for(int j=0;j<ncerwavechan_avg[0].size();j++)
+     /*for(int j=0;j<ncerwavechan_avg[0].size();j++)
      {
       nscint_cut_chan_k[2].at(j) = nscint_cut_chan_k[2].at(j)*Large_value/norm_S_Cut_right;
       ncer_cut_chan_k[2].at(j) = ncer_cut_chan_k[2].at(j)*Large_value/norm_C_Cut_right;
-     }
+     }*/
      
     TGraph* gcerwave_gen = new TGraph(ncerwavechan_avg[0].size(),&number_of_bins_avg[0][0],&ncerwavechan_avg[0][0]);
     gcerwave_gen->SetTitle("Cerwave_gen");
-    TGraph* gcerwave_det_right = new TGraph(ncerwavechan_avg[2].size(),&number_of_bins_avg[2][0],&ncerwavechan_avg[2][0]);
-    gcerwave_det_right->SetTitle("Cerwave_det_right");
-    TGraph* gcerwave_det_left = new TGraph(ncerwavechan_avg[1].size(),&number_of_bins_avg[1][0],&ncerwavechan_avg[1][0]);
-    gcerwave_det_left->SetTitle("Cerwave_det_left");
     
-     
     TGraph* gscintwave_gen = new TGraph(nscintwavechan_avg[0].size(),&number_of_bins_avg[0][0],&nscintwavechan_avg[0][0]);
     gscintwave_gen->SetTitle("Scintwave_gen");
-    TGraph* gscintwave_det_left = new TGraph(nscintwavechan_avg[1].size(),&number_of_bins_avg[1][0],&nscintwavechan_avg[1][0]);
-    gscintwave_det_left->SetTitle("Scintwave_det_left");
-    TGraph* gscintwave_det_right = new TGraph(nscintwavechan_avg[2].size(),&number_of_bins_avg[2][0],&nscintwavechan_avg[2][0]);
-    gscintwave_det_right->SetTitle("Scintwave_det_right");
     
-    TGraph* gcerwave_gen_cut = new TGraph(ncerwavecutchan_avg[0].size(),&number_of_bins_avg[0][0],&ncerwavecutchan_avg[0][0]);
-    gcerwave_gen_cut->SetTitle("Cerwave_gen_cut");
-    TGraph* gcerwave_det_cut_right = new TGraph(ncerwavecutchan_avg[2].size(),&number_of_bins_avg[2][0],&ncerwavecutchan_avg[2][0]);
-    gcerwave_det_cut_right->SetTitle("Cerwave_det_cut_right");
-    TGraph* gcerwave_det_cut_left = new TGraph(ncerwavecutchan_avg[1].size(),&number_of_bins_avg[1][0],&ncerwavecutchan_avg[1][0]);
-    gcerwave_det_cut_left->SetTitle("Cerwave_det_cut_left");
+    //Photons reaching right SiPMs
+    //Cerenkov
+    TGraph* gcerwave_det_right_1 = new TGraph(ncerwavechan_avg[3].size(),&number_of_bins_avg[3][0],&ncerwavechan_avg[3][0]);
+    gcerwave_det_right_1->SetTitle("Distribution of Cerenkov photons reaching Right SiPM 1");
+    
+    TGraph* gcerwave_det_right_2 = new TGraph(ncerwavechan_avg[4].size(),&number_of_bins_avg[4][0],&ncerwavechan_avg[4][0]);
+    gcerwave_det_right_2->SetTitle("Distribution of Cerenkov photons reaching Right SiPM 2");
+    
+    TGraph* gcerwave_det_right_3 = new TGraph(ncerwavechan_avg[5].size(),&number_of_bins_avg[5][0],&ncerwavechan_avg[5][0]);
+    gcerwave_det_right_3->SetTitle("Distribution of Cerenkov photons reaching Right SiPM 3");
+    
+    TGraph* gcerwave_det_right_4 = new TGraph(ncerwavechan_avg[6].size(),&number_of_bins_avg[6][0],&ncerwavechan_avg[6][0]);
+    gcerwave_det_right_4->SetTitle("Distribution of Cerenkov photons reaching Right SiPM 4");
+    
+ 
+    //Scintillation     
+    TGraph* gscintwave_det_right_1 = new TGraph(nscintwavechan_avg[3].size(),&number_of_bins_avg[3][0],&nscintwavechan_avg[3][0]);
+    gscintwave_det_right_1->SetTitle("Distribution of Scintillation photons reaching Right SiPM 1");
+    
+    TGraph* gscintwave_det_right_2 = new TGraph(nscintwavechan_avg[4].size(),&number_of_bins_avg[4][0],&nscintwavechan_avg[4][0]);
+    gscintwave_det_right_2->SetTitle("Distribution of Scintillation photons reaching Right SiPM 2");
+    
+    TGraph* gscintwave_det_right_3 = new TGraph(nscintwavechan_avg[5].size(),&number_of_bins_avg[5][0],&nscintwavechan_avg[5][0]);
+    gscintwave_det_right_3->SetTitle("Distribution of Scintillation photons reaching Right SiPM 3");
+
+    TGraph* gscintwave_det_right_4 = new TGraph(nscintwavechan_avg[6].size(),&number_of_bins_avg[6][0],&nscintwavechan_avg[6][0]);
+    gscintwave_det_right_4->SetTitle("Distribution of Scintillation photons reaching Right SiPM 4");
+    
+    
+    
+    //Photons reaching the SiPMs on the long face
+    //Cerenkov
+    TGraph* gcerwave_det_1 = new TGraph(ncerwavechan_avg[7].size(),&number_of_bins_avg[7][0],&ncerwavechan_avg[7][0]);
+    gcerwave_det_1->SetTitle("Distribution of Cerenkov photons reaching SiPM 1 on the long face");
+    
+    TGraph* gcerwave_det_2 = new TGraph(ncerwavechan_avg[8].size(),&number_of_bins_avg[8][0],&ncerwavechan_avg[8][0]);
+    gcerwave_det_2->SetTitle("Distribution of Cerenkov photons reaching SiPM 2 on the long face");
+    
+    TGraph* gcerwave_det_3 = new TGraph(ncerwavechan_avg[9].size(),&number_of_bins_avg[9][0],&ncerwavechan_avg[9][0]);
+    gcerwave_det_3->SetTitle("Distribution of Cerenkov photons reaching SiPM 3 on the long face");
+    
+    TGraph* gcerwave_det_4 = new TGraph(ncerwavechan_avg[10].size(),&number_of_bins_avg[10][0],&ncerwavechan_avg[10][0]);
+    gcerwave_det_4->SetTitle("Distribution of Cerenkov photons reaching SiPM 4 on the long face");
+    
      
-    TGraph* gscintwave_gen_cut = new TGraph(nscintwavecutchan_avg[0].size(),&number_of_bins_avg[0][0],&nscintwavecutchan_avg[0][0]);
-    gscintwave_gen_cut->SetTitle("Scintwave_gen_cut");
-    TGraph* gscintwave_det_cut_left = new TGraph(nscintwavecutchan_avg[1].size(),&number_of_bins_avg[1][0],&nscintwavecutchan_avg[1][0]);
-    gscintwave_det_cut_left->SetTitle("Scintwave_det_cut_left");
-    TGraph* gscintwave_det_cut_right = new TGraph(nscintwavecutchan_avg[2].size(),&number_of_bins_avg[2][0],&nscintwavecutchan_avg[2][0]);
-    gscintwave_det_cut_right->SetTitle("Scintwave_det_cut_right");
+    //Scintillation
+    TGraph* gscintwave_det_1 = new TGraph(nscintwavechan_avg[7].size(),&number_of_bins_avg[7][0],&nscintwavechan_avg[7][0]);
+    gscintwave_det_1->SetTitle("Distribution of Scintillation photons reaching SiPM 1 on the long face");
+    
+    TGraph* gscintwave_det_2 = new TGraph(nscintwavechan_avg[8].size(),&number_of_bins_avg[8][0],&nscintwavechan_avg[8][0]);
+    gscintwave_det_2->SetTitle("Distribution of Scintillation photons reaching SiPM 2 on the long face");
+    
+    TGraph* gscintwave_det_3 = new TGraph(nscintwavechan_avg[9].size(),&number_of_bins_avg[9][0],&nscintwavechan_avg[9][0]);
+    gscintwave_det_3->SetTitle("Distribution of Scintillation photons reaching SiPM 3 on the long face");
+
+    TGraph* gscintwave_det_4 = new TGraph(nscintwavechan_avg[10].size(),&number_of_bins_avg[10][0],&nscintwavechan_avg[10][0]);
+    gscintwave_det_4->SetTitle("Distribution of Scintillation photons reaching SiPM 4 on the long face");
+    
+   
+    
+    //Photoelectrons at the right SiPMs (with or without filter, with or without SiPM/PMT efficiency)
+    //Cerenkov    
+    TGraph* gcerwave_det_cut_right_1 = new TGraph(ncerwavecutchan_avg[3].size(),&number_of_bins_avg[3][0],&ncerwavecutchan_avg[3][0]);
+    gcerwave_det_cut_right_1->SetTitle("Distribution of Cerenkov photons with filter at Right SiPM 1");
+    
+    TGraph* gcerwave_det_cut_right_2 = new TGraph(ncerwavecutchan_avg[4].size(),&number_of_bins_avg[4][0],&ncerwavecutchan_avg[4][0]);
+    gcerwave_det_cut_right_2->SetTitle("Distribution of Cerenkov photons with filter at Right SiPM 2");
+
+    TGraph* gcerwave_det_cut_right_3 = new TGraph(ncerwavecutchan_avg[5].size(),&number_of_bins_avg[5][0],&ncerwavecutchan_avg[5][0]);
+    gcerwave_det_cut_right_3->SetTitle("Distribution of Cerenkov photons with filter at Right SiPM 3");
+
+    TGraph* gcerwave_det_cut_right_4 = new TGraph(ncerwavecutchan_avg[6].size(),&number_of_bins_avg[6][0],&ncerwavecutchan_avg[6][0]);
+    gcerwave_det_cut_right_4->SetTitle("Distribution of Cerenkov photons with filter at Right SiPM 4");
+     
+
+    //Scintillation
+    TGraph* gscintwave_det_cut_right_1 = new TGraph(nscintwavecutchan_avg[3].size(),&number_of_bins_avg[3][0],&nscintwavecutchan_avg[3][0]);
+    gscintwave_det_cut_right_1->SetTitle("Distribution of Scintillation photons with filter at Right SiPM 1");
+
+    TGraph* gscintwave_det_cut_right_2 = new TGraph(nscintwavecutchan_avg[4].size(),&number_of_bins_avg[4][0],&nscintwavecutchan_avg[4][0]);
+    gscintwave_det_cut_right_2->SetTitle("Distribution of Scintillation photons with filter at Right SiPM 2");
+
+    TGraph* gscintwave_det_cut_right_3 = new TGraph(nscintwavecutchan_avg[5].size(),&number_of_bins_avg[5][0],&nscintwavecutchan_avg[5][0]);
+    gscintwave_det_cut_right_3->SetTitle("Distribution of Scintillation photons with filter at Right SiPM 3");
+
+    TGraph* gscintwave_det_cut_right_4 = new TGraph(nscintwavecutchan_avg[6].size(),&number_of_bins_avg[6][0],&nscintwavecutchan_avg[6][0]);
+    gscintwave_det_cut_right_4->SetTitle("Distribution of Scintillation photons with filter at Right SiPM 4");
+    
+    
+    
+    //Photoelectrons at the SiPMs on the long face (with or without filter, with or without SiPM/PMT efficiency)
+    //Cerenkov    
+    TGraph* gcerwave_det_cut_1 = new TGraph(ncerwavecutchan_avg[7].size(),&number_of_bins_avg[7][0],&ncerwavecutchan_avg[7][0]);
+    gcerwave_det_cut_1->SetTitle("Distribution of Cerenkov photons with filter at SiPM 1 on the long face");
+    
+    TGraph* gcerwave_det_cut_2 = new TGraph(ncerwavecutchan_avg[8].size(),&number_of_bins_avg[8][0],&ncerwavecutchan_avg[8][0]);
+    gcerwave_det_cut_2->SetTitle("Distribution of Cerenkov photons with filter at SiPM 2 on the long face");
+
+    TGraph* gcerwave_det_cut_3 = new TGraph(ncerwavecutchan_avg[9].size(),&number_of_bins_avg[9][0],&ncerwavecutchan_avg[9][0]);
+    gcerwave_det_cut_3->SetTitle("Distribution of Cerenkov photons with filter at SiPM 3 on the long face");
+
+    TGraph* gcerwave_det_cut_4 = new TGraph(ncerwavecutchan_avg[10].size(),&number_of_bins_avg[10][0],&ncerwavecutchan_avg[10][0]);
+    gcerwave_det_cut_4->SetTitle("Distribution of Cerenkov photons with filter at SiPM 4 on the long face");
+     
+
+    //Scintillation
+    TGraph* gscintwave_det_cut_1 = new TGraph(nscintwavecutchan_avg[7].size(),&number_of_bins_avg[7][0],&nscintwavecutchan_avg[7][0]);
+    gscintwave_det_cut_1->SetTitle("Distribution of Scintillation photons with filter at SiPM 1 on the long face");
+
+    TGraph* gscintwave_det_cut_2 = new TGraph(nscintwavecutchan_avg[8].size(),&number_of_bins_avg[8][0],&nscintwavecutchan_avg[8][0]);
+    gscintwave_det_cut_2->SetTitle("Distribution of Scintillation photons with filter at SiPM 2 on the long face");
+
+    TGraph* gscintwave_det_cut_3 = new TGraph(nscintwavecutchan_avg[9].size(),&number_of_bins_avg[9][0],&nscintwavecutchan_avg[9][0]);
+    gscintwave_det_cut_3->SetTitle("Distribution of Scintillation photons with filter at SiPM 3 on the long face");
+
+    TGraph* gscintwave_det_cut_4 = new TGraph(nscintwavecutchan_avg[10].size(),&number_of_bins_avg[10][0],&nscintwavecutchan_avg[10][0]);
+    gscintwave_det_cut_4->SetTitle("Distribution of Scintillation photons with filter at SiPM 4 on the long face");
+
     
     /*TGraph* gcertime_gen = new TGraph(ncertimechan_avg[0].size(),&number_of_bins_time_avg[0][0],&ncertimechan_avg[0][0]);
     gcertime_gen->SetTitle("Certime_gen");
@@ -899,47 +1053,79 @@ std::cout<<std::endl;
     
     TGraph* filter_Crystal = new TGraph(filter[0].size(),&number_of_bins_avg[0][0],&filter[0][0]);
     filter_Crystal->SetTitle("filter for PbWO4 crystal");
-    TGraph* filter_Air_out = new TGraph(filter[3].size(),&number_of_bins_avg[3][0],&filter[3][0]);
+    TGraph* filter_Air_out = new TGraph(filter[1].size(),&number_of_bins_avg[1][0],&filter[1][0]);
     filter_Air_out->SetTitle("filter for Air outside");
     
-    TGraph* filter_GG = new TGraph(filter[1].size(),&number_of_bins_avg[1][0],&filter[1][0]);
-    filter_GG->SetTitle("filter for Left killMedia (GG475)");
-    TGraph* filter_UV = new TGraph(filter[2].size(),&number_of_bins_avg[2][0],&filter[2][0]);
-    filter_UV->SetTitle("filter for Right killMedia (UG11)");      
+    TGraph* filter_OD_1 = new TGraph(filter[7].size(),&number_of_bins_avg[7][0],&filter[7][0]);
+    filter_OD_1->SetTitle("Filter for SiPM 1 on long face");
     
-    TGraph* C_Cut = new TGraph(ncer_cut_chan_k[2].size(),&number_of_bins_avg[2][0], &ncer_cut_chan_k[2][0]);
+    TGraph* filter_OD_2 = new TGraph(filter[8].size(),&number_of_bins_avg[8][0],&filter[8][0]);
+    filter_OD_2->SetTitle("Filter for SiPM 2 on long face");
+    
+    TGraph* filter_OD_3 = new TGraph(filter[9].size(),&number_of_bins_avg[9][0],&filter[9][0]);
+    filter_OD_3->SetTitle("Filter for SiPM 3 on long face");
+    
+    TGraph* filter_OD_4 = new TGraph(filter[10].size(),&number_of_bins_avg[10][0],&filter[10][0]);
+    filter_OD_4->SetTitle("Filter for SiPM 4 on long face");
+    
+    
+    /*TGraph* C_Cut = new TGraph(ncer_cut_chan_k[2].size(),&number_of_bins_avg[2][0], &ncer_cut_chan_k[2][0]);
     C_Cut->SetTitle("Distribution of integral of C above the cut");
     TGraph* S_Cut = new TGraph(nscint_cut_chan_k[2].size(),&number_of_bins_avg[2][0], &nscint_cut_chan_k[2][0]);    
     S_Cut->SetTitle("Distribution of integral of S above the cut");
     TGraph* C_S_Cut = new TGraph(optimize_C_S[2].size(),&number_of_bins_avg[2][0], &optimize_C_S[2][0]);
-    C_S_Cut->SetTitle("Optimized cut value");
+    C_S_Cut->SetTitle("Optimized cut value");*/
     
     TMultiGraph* cerscint = new TMultiGraph();
     cerscint->SetName("cer_scint");
     TCanvas *c1 = new TCanvas("c1","Graph Draw Options", 200,10,600,400); //represents coordinates of start and end points of canvas
-    cerscint -> Add(gcerwave_det_right);
-    //cerscint -> Add(gcerwave_det_left);    
-    //cerscint -> Add(gscintwave_det_left);
-    cerscint -> Add(gscintwave_det_right);
+    cerscint -> Add(gcerwave_det_1);
+    cerscint -> Add(gcerwave_det_2);   
+    cerscint -> Add(gcerwave_det_3);   
+    cerscint -> Add(gcerwave_det_4);   
+     
+    cerscint -> Add(gscintwave_det_1);
+    cerscint -> Add(gscintwave_det_2);
+    cerscint -> Add(gscintwave_det_3);
+    cerscint -> Add(gscintwave_det_4);
     
-    //cerscint -> Add(gcerwave_det_cut_right);
-    //cerscint -> Add(gcerwave_det_cut_left);    
-    //cerscint -> Add(gscintwave_det_cut_left);
-    //cerscint -> Add(gscintwave_det_cut_right);
     
-    cerscint-> Add(C_Cut);
+    
+    cerscint -> Add(gcerwave_det_cut_1);
+    cerscint -> Add(gcerwave_det_cut_2);   
+    cerscint -> Add(gcerwave_det_cut_3);   
+    cerscint -> Add(gcerwave_det_cut_4);   
+    
+    cerscint -> Add(gscintwave_det_cut_1);
+    cerscint -> Add(gscintwave_det_cut_2);
+    cerscint -> Add(gscintwave_det_cut_3);
+    cerscint -> Add(gscintwave_det_cut_4);
+    
+    /*cerscint-> Add(C_Cut);
     cerscint-> Add(S_Cut);
-    cerscint-> Add(C_S_Cut);
+    cerscint-> Add(C_S_Cut);*/
     
-    gcerwave_det_right->SetLineColor(kRed);
-    //gcerwave_det_left->SetLineColor(kRed);
-    //gscintwave_det_left->SetLineColor(kOrange);
-    gscintwave_det_right->SetLineColor(kOrange);
+    gcerwave_det_1->SetLineColor(kRed);
+    gcerwave_det_2->SetLineColor(kYellow);
+    gcerwave_det_3->SetLineColor(kOrange);
+    gcerwave_det_4->SetLineColor(kMagenta);
     
-    //gcerwave_det_cut_right->SetLineColor(kBlack);
-    //gcerwave_det_cut_left->SetLineColor(kBlack);
-    //gscintwave_det_cut_left->SetLineColor(kViolet);
-    //gscintwave_det_cut_right->SetLineColor(kViolet);
+    gcerwave_det_cut_1->SetLineColor(kBlue);
+    gcerwave_det_cut_2->SetLineColor(kGreen);
+    gcerwave_det_cut_3->SetLineColor(kViolet);
+    gcerwave_det_cut_4->SetLineColor(kCyan);
+    
+    
+    
+    gscintwave_det_1->SetLineColor(kGray);
+    gscintwave_det_2->SetLineColor(kPink);
+    gscintwave_det_3->SetLineColor(kAzure);
+    gscintwave_det_4->SetLineColor(kSpring);
+    
+    gscintwave_det_cut_1->SetLineColor(kTeal);
+    gscintwave_det_cut_2->SetLineColor(kBrownCyan);
+    gscintwave_det_cut_3->SetLineColor(kRose);
+    gscintwave_det_cut_4->SetLineColor(kBlueYellow);
     
     /*cerscint -> Add(gcertime_gen);
     cerscint -> Add(gcertime_det_right);
@@ -947,19 +1133,33 @@ std::cout<<std::endl;
     gcertime_gen->SetLineColor(kRed);
     gcertime_det_right->SetLineColor(kBlack);*/
     
-    gcerwave_det_right->SetLineWidth(2);
-    gscintwave_det_right->SetLineWidth(2);
+    gcerwave_det_1->SetLineWidth(2);
+    gcerwave_det_2->SetLineWidth(2);
+    gcerwave_det_3->SetLineWidth(2);
+    gcerwave_det_4->SetLineWidth(2);
     
-    //gcerwave_det_cut_right->SetLineWidth(2);
-    //gscintwave_det_cut_right->SetLineWidth(2);  
-    C_Cut->SetLineColor(kBlack);
+    gcerwave_det_cut_1->SetLineWidth(2);
+    gcerwave_det_cut_2->SetLineWidth(2);  
+    gcerwave_det_cut_3->SetLineWidth(2);
+    gcerwave_det_cut_4->SetLineWidth(2);
+    
+    gscintwave_det_1->SetLineWidth(2);
+    gscintwave_det_2->SetLineWidth(2);
+    gscintwave_det_3->SetLineWidth(2);
+    gscintwave_det_4->SetLineWidth(2);
+    
+    gscintwave_det_cut_1->SetLineWidth(2);
+    gscintwave_det_cut_2->SetLineWidth(2);
+    gscintwave_det_cut_3->SetLineWidth(2);
+    gscintwave_det_cut_4->SetLineWidth(2);                            
+    /*C_Cut->SetLineColor(kBlack);
     C_Cut->SetLineWidth(3);
     
     S_Cut->SetLineColor(kViolet);
     S_Cut->SetLineWidth(3);
     
     C_S_Cut->SetLineColor(kGreen);
-    C_S_Cut->SetLineWidth(5);
+    C_S_Cut->SetLineWidth(5);*/
     
     //cerscint -> Add(QE_Crystal);
     //cerscint -> Add(QE_Air_out);
@@ -972,7 +1172,7 @@ std::cout<<std::endl;
     /*cerscint -> Add(QE_RGB);
     QE_RGB->SetLineColor(kOrange);
     QE_RGB->SetLineWidth(5);*/
-    cerscint -> Add(QE_PMT);
+    /*cerscint -> Add(QE_PMT);
     cerscint -> Add(QE_Right_1);
     cerscint -> Add(QE_Right_2);
     cerscint -> Add(QE_Right_3);
@@ -981,23 +1181,36 @@ std::cout<<std::endl;
     cerscint -> Add(QE_1);
     cerscint -> Add(QE_2);
     cerscint -> Add(QE_3);
-    cerscint -> Add(QE_4);
+    cerscint -> Add(QE_4);*/
     
-    /*cerscint -> Add(filter_Crystal);
-    cerscint -> Add(filter_Air_out);*/
-    //cerscint -> Add(filter_UV);
-    //cerscint -> Add(filter_GG);
-    //filter_Crystal->SetMarkerColor(kRed);
-    //filter_Air_out->SetMarkerColor(kBlack);
-    /*filter_UV->SetLineColor(kGreen);
-    filter_UV->SetLineStyle(kDashed);    
-    filter_UV->SetLineWidth(5);*/
-    //filter_UV->SetMarkerColor(kBlue);
-    /*filter_GG->SetLineColor(kGreen);
-    filter_GG->SetLineStyle(kDashed);
-    filter_GG->SetLineWidth(5);*/
-    //filter_GG->SetMarkerColor(kOrange);
+    cerscint -> Add(filter_Crystal);
+    cerscint -> Add(filter_Air_out);
+    cerscint -> Add(filter_OD_1);
+    cerscint -> Add(filter_OD_2);
+    cerscint -> Add(filter_OD_3);
+    cerscint -> Add(filter_OD_4);
+    filter_Crystal->SetMarkerColor(kRed);
+    filter_Air_out->SetMarkerColor(kBlack);
     
+    filter_OD_1->SetLineColor(kBlack);
+    filter_OD_1->SetLineStyle(kDashed);    
+    filter_OD_1->SetLineWidth(5);
+    filter_OD_1->SetMarkerColor(kBlue);
+    
+    filter_OD_2->SetLineColor(kBlack);
+    filter_OD_2->SetLineStyle(kDashed);
+    filter_OD_2->SetLineWidth(5);
+    filter_OD_2->SetMarkerColor(kBlue);
+    
+    filter_OD_3->SetLineColor(kBlack);
+    filter_OD_3->SetLineStyle(kDashed);
+    filter_OD_3->SetLineWidth(5);
+    filter_OD_3->SetMarkerColor(kBlue);
+    
+    filter_OD_4->SetLineColor(kBlack);
+    filter_OD_4->SetLineStyle(kDashed);
+    filter_OD_4->SetLineWidth(5);
+    filter_OD_4->SetMarkerColor(kBlue);
      
 
     cerscint -> Draw("AC"); //Draw with axes, curve
@@ -1012,7 +1225,7 @@ std::cout<<std::endl;
     hist->SetTitle("C and S produced in crystal and detected for right killMedia)");
     c1 -> BuildLegend();
     
-    TGaxis *C_axis = new TGaxis(1300, ymin, 1300, ymax, ymin, ymax*norm_cer_det_right/Large_value, 510, "+L"); //Should this norm_cer_det_right*62.5 be the scaling factor for ymin as well?
+    /*TGaxis *C_axis = new TGaxis(1300, ymin, 1300, ymax, ymin, ymax*norm_cer_det_right/Large_value, 510, "+L"); //Should this norm_cer_det_right*62.5 be the scaling factor for ymin as well?
     //TGaxis *C_axis = new TGaxis(1300, ymin, 1300, ymax, ymin, ymax*norm_cer_det_right/Large_value_QE, 510, "+L"); //Should this norm_cer_det_right*62.5 be the scaling factor for ymin as well?
     C_axis->Draw();
     C_axis->SetTitle("Wavelength distribution of C detected");
@@ -1020,9 +1233,9 @@ std::cout<<std::endl;
     C_axis->SetLabelColor(kRed);
     C_axis->SetTitleColor(kRed);
     C_axis->SetLabelSize(0.025);
-    C_axis->SetTitleSize(0.03);
+    C_axis->SetTitleSize(0.03);*/
     
-    TGaxis *S_axis = new TGaxis(1250, ymin, 1250, ymax, ymin, ymax*norm_scint_det_right/Large_value, 510, "+L"); //Should this norm_scint_det_right*62.5 be the scaling factor for ymin as well?
+    /*TGaxis *S_axis = new TGaxis(1250, ymin, 1250, ymax, ymin, ymax*norm_scint_det_right/Large_value, 510, "+L"); //Should this norm_scint_det_right*62.5 be the scaling factor for ymin as well?
     //TGaxis *S_axis = new TGaxis(1250, ymin, 1250, ymax, ymin, ymax*norm_scint_det_right/Large_value_QE, 510, "+L"); //Should this norm_scint_det_right*62.5 be the scaling factor for ymin as well?
     S_axis->Draw();
     S_axis->SetTitle("Wavelength distribution of S detected");
@@ -1031,16 +1244,16 @@ std::cout<<std::endl;
     S_axis->SetTitleColor(kOrange);
     S_axis->SetLabelSize(0.025);
     S_axis->SetTitleSize(0.03);
-    S_axis->SetTitleOffset(-0.6);
+    S_axis->SetTitleOffset(-0.6);*/
     
-    TGaxis *Cut_value = new TGaxis (Optimum_cut_value,ymin,Optimum_cut_value,ymax,1,10,0,"");
+    /*TGaxis *Cut_value = new TGaxis (Optimum_cut_value,ymin,Optimum_cut_value,ymax,1,10,0,"");
     Cut_value->SetTickLength(0);
     Cut_value->SetLineColor(kBlue);
     Cut_value->SetLineWidth(2);
-    Cut_value->Draw();
+    Cut_value->Draw();*/
 
     //std::string cut_photons_total = Form("%f", Optimum_Cerenkov + Optimum_Scintillation);
-    std::stringstream stream;
+    /*std::stringstream stream;
     stream << std::fixed << std::setprecision(2) << Optimum_Cerenkov + Optimum_Scintillation; //Fixed stands for fixed point precision here (no exponent), 2 is for 2 decimal places
     std::string cut_photons_total = stream.str();
 
@@ -1050,10 +1263,10 @@ std::cout<<std::endl;
     
     std::stringstream stream_S;
     stream_S << std::fixed << std::setprecision(2) << Optimum_Scintillation; //Fixed stands for fixed point precision here (no exponent), 2 is for 2 decimal places
-    std::string cut_photons_S = stream_S.str();
+    std::string cut_photons_S = stream_S.str();*/
     
     //std::string cut_wavelength = Form("%i", Opt_value);
-    std::stringstream stream1;
+    /*std::stringstream stream1;
     stream1 << std::fixed << std::setprecision(2) << Optimum_cut_value; //Fixed stands for fixed point precision here (no exponent), 2 is for 2 decimal places
     std::string cut_wavelength = stream1.str();
 
@@ -1071,7 +1284,7 @@ std::cout<<std::endl;
     cut_photons->AddText(C_photon_argument.c_str());
     cut_photons->AddText(S_photon_argument.c_str());
     cut_photons->AddText(wavelength_argument.c_str());
-    cut_photons->SetTextSize(0.02);
+    cut_photons->SetTextSize(0.02);*/
     //cut_photons->Draw();
 
     //This kink drawing is only for PBWO4 !!!!!!!!!!!!!!
@@ -1105,7 +1318,7 @@ std::cout<<std::endl;
     cut_photons->AddText(kink_wavelength_argument.c_str());
     cut_photons->SetTextSize(0.02);
     cut_photons->Draw();*/
-    hcEcalncer0->Draw();
+    //hcEcalncer0->Draw();
         
   }  // end if no events
     
